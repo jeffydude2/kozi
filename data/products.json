@@ -1,0 +1,102 @@
+[
+ {
+  "id": "k1",
+  "name": "VENOM Wrap",
+  "category": "Eyewear",
+  "description": "Wraparound sport shield with sculpted chrome thorn temples.",
+  "price": 189,
+  "stock": 12,
+  "tag": "NEW",
+  "image": "assets/products/k1.jpg"
+ },
+ {
+  "id": "k2",
+  "name": "Y2K Halo",
+  "category": "Eyewear",
+  "description": "Rimless silver shield with etched filigree arms.",
+  "price": 169,
+  "stock": 20,
+  "tag": "BEST SELLER",
+  "image": "assets/products/k2.jpg"
+ },
+ {
+  "id": "k3",
+  "name": "Star Hunter",
+  "category": "Eyewear",
+  "description": "Smoked mono-lens with a polished star on each temple.",
+  "price": 159,
+  "stock": 8,
+  "tag": "LIMITED",
+  "image": "assets/products/k3.jpg"
+ },
+ {
+  "id": "k4",
+  "name": "Noir Oval Optical",
+  "category": "Eyewear",
+  "description": "Glossy black acetate oval optical frame with clear lenses.",
+  "price": 199,
+  "stock": 5,
+  "tag": "DROP 01",
+  "image": "assets/products/k4.jpg"
+ },
+ {
+  "id": "k5",
+  "name": "Liquid Metal Mask",
+  "category": "Eyewear",
+  "description": "Molten chrome statement frame. Wear it loud.",
+  "price": 249,
+  "stock": 3,
+  "tag": "GRAIL",
+  "image": "assets/products/k5.jpg"
+ },
+ {
+  "id": "k6",
+  "name": "Pixel Cat-Eye",
+  "category": "Eyewear",
+  "description": "Y2K cat-eye with a soft silver gradient lens.",
+  "price": 139,
+  "stock": 25,
+  "tag": "NEW",
+  "image": "assets/products/k6.jpg"
+ },
+ {
+  "id": "k7",
+  "name": "KOZI Graffiti Tee",
+  "category": "Clothing",
+  "description": "Heavyweight white tee with the KOZI tag print.",
+  "price": 59,
+  "stock": 40,
+  "tag": "PRE-ORDER",
+  "image": "assets/products/k7.jpg"
+ },
+ {
+  "id": "k8",
+  "name": "Red Alert Tee",
+  "category": "Clothing",
+  "description": "Boxy fit blood-red tee with oversized logo.",
+  "price": 64,
+  "stock": 30,
+  "tag": "NEW",
+  "image": "assets/products/k8.jpg"
+ },
+ {
+  "id": "k9",
+  "name": "Chrome Thorn Hoodie",
+  "category": "Clothing",
+  "description": "Black fleece hoodie, silver thorn embroidery.",
+  "price": 129,
+  "stock": 14,
+  "tag": "DROP 01",
+  "image": "assets/products/k9.jpg"
+ },
+ {
+  "id": "k10",
+  "name": "Zip Cargo Cap",
+  "category": "Clothing",
+  "description": "Six-panel cap with chrome spike buckle.",
+  "price": 49,
+  "stock": 35,
+  "tag": "",
+  "image": "assets/products/k10.jpg"
+ }
+]

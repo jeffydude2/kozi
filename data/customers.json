@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1,
+  "name": "Mika Santos",
+  "city": "Angeles City",
+  "tier": "VIP",
+  "last_purchase": "Star Hunter",
+  "review": "Literally everyone asked where I got these."
+ },
+ {
+  "id": 2,
+  "name": "Jun Reyes",
+  "city": "Manila",
+  "tier": "Member",
+  "last_purchase": "Red Alert Tee",
+  "review": "Boxy fit is perfect. Print is crisp."
+ },
+ {
+  "id": 3,
+  "name": "Aya Tan",
+  "city": "Cebu",
+  "tier": "VIP",
+  "last_purchase": "Liquid Metal Mask",
+  "review": "Main character energy, zero notes."
+ },
+ {
+  "id": 4,
+  "name": "Dax Lim",
+  "city": "Davao",
+  "tier": "Member",
+  "last_purchase": "VENOM Wrap",
+  "review": "Wore them to a gig. 10/10."
+ },
+ {
+  "id": 5,
+  "name": "Bea Cruz",
+  "city": "Pampanga",
+  "tier": "Member",
+  "last_purchase": "Y2K Halo",
+  "review": "Lightweight and so shiny."
+ }
+]
